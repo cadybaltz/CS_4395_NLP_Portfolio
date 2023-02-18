@@ -47,7 +47,6 @@ def calculate_lexical_diversity(text):
     # print the result, formatted to two decimal places
     print()
     print("Lexical diversity: " + str(round(diversity, 2)))
-    print()
 
 
 def preprocess_raw_text(text):
@@ -109,14 +108,14 @@ def preprocess_raw_text(text):
     nouns = []
 
     print()
-    print("First twenty part-of-speech tags:")
+    print("First Twenty Part-of-Speech Tags:")
 
     # iterate through all of the POS tags
     for tagged_lemma in pos_tags:
 
         # only print the first 20 tagged tokens
         if num_printed < 20:
-            print(tagged_lemma)
+            print(str(num_printed+1) + '. ' + tagged_lemma[0] + ' - ' + tagged_lemma[1])
             num_printed += 1
         
         # if the current lemma's tag starts with N, add it to the list of nouns
@@ -127,7 +126,6 @@ def preprocess_raw_text(text):
     print()
     print("Number of tokens: " + str(len(reduced_tokens)))
     print("Number of nouns: " + str(len(nouns)))
-    print()
     
     return (reduced_tokens, nouns)
 
@@ -201,11 +199,6 @@ def guessing_game(possible_words):
         # randomly choose one of the fifty words from the top 50 list
         word = possible_words[new_int]
 
-        print("NEW")
-        print(new_int)
-        print(word)
-        print(possible_words)
-
         # initially, none of the letters in the word have been guessed correctly
         correctly_guessed = list(False for _ in range(len(word)))
 
@@ -230,7 +223,7 @@ def guessing_game(possible_words):
             print(letters_to_print)
 
             # allow the user to make their next guess
-            guessed_letter = input("Guess a letter: ")
+            guessed_letter = input("Guess a letter: ").lower()
 
             # the game ends if the user guesses '!' as a letter
             if guessed_letter == '!':
@@ -259,17 +252,25 @@ def guessing_game(possible_words):
             # if the letter is not in the word, subtract 1 from their score
             else:
                 points -= 1
-                print("Sorry, guess again. Score is " + str(points))
+                if points >= 0:
+                    print("Sorry, guess again. Score is " + str(points))
                 
         # end the game when the total score is negative
         if points < 0:
             print("Sorry, you have less than zero points. Game over.")
+            print("The word was: " + word)
             print("Final score: " + str(points))
             return
         
         # otherwise, continue the game with a new word after completing this current word
-        else: 
+        else:
+            letters_to_print = ''
+            for letter in word:
+                letters_to_print += letter + ' '
+            print(letters_to_print)
             print("You solved it!")
+
+
 
 
 if __name__ == '__main__':

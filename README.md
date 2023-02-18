@@ -29,10 +29,12 @@ To run this program, you must include one system argument with a relative path t
 - In this assignment, I reviewed the basics of Python text processing, including how to open and modify files, use built-in functions like `.capitalize()` and `input()`, and store data in a dictionary.
 - Additionally, I learned how to work with additional Python libraries that I had less experience with, including `re` to match and modify text with regex, and `pickle` to store a dictionary in another file.
 
+-----
+
 ### Assignment 2: Word Guess Game
 [This program](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_2/cmb180010-NLP-Assignment-2.py) uses Python and NLTK features to explore a text file, and then uses the fifty most common nouns from that text file in a word guessing game.
 
 #### To run:
 To run this program, you must include one system argument with a relative path to the input text file. In this repository, I have uploaded a sample data file called anat19.txt, which contains one chapter of an anatomy textbook.
 
-`python .\cmb180010-NLP-Assignment-2.py .\anat19.txt`
+`python3 .\cmb180010-NLP-Assignment-2.py .\anat19.txt`
