@@ -38,3 +38,9 @@ To run this program, you must include one system argument with a relative path t
 To run this program, you must include one system argument with a relative path to the input text file. In this repository, I have uploaded a sample data file called anat19.txt, which contains one chapter of an anatomy textbook.
 
 `python3 .\cmb180010-NLP-Assignment-2.py .\anat19.txt`
+
+
+-----
+
+### Assignment 3: WordNet
+Read my analysis of WordNet, SentiWordNet, and collocations [here](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_3/cmb180010-NLP-Assignment-3.pdf).
