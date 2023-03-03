@@ -44,3 +44,20 @@ To run this program, you must include one system argument with a relative path t
 
 ### Assignment 3: WordNet
 Read my analysis of WordNet, SentiWordNet, and collocations [here](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_3/cmb180010-NLP-Assignment-3.pdf).
+
+
+-----
+
+### Assignment 4: Ngrams
+
+You can read my narrative overview of Ngrams [here](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_4/cmb180010_ngrams_narrative.pdf).
+
+[Program 1](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_4/cmb180010_program_1.py) processes three text files in different languages ([English](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_4/data/LangId.train.English), [French](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_4/data/LangId.train.French), and [Italian](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_4/data/LangId.train.Italian)), and outputs dictionaries of their unigram and bigram counts as Pickle files in a directory called `pickle_output`.
+
+[Program 2](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_4/cmb180010_program_2.py) then takes these dictionaries and uses them to predict the language of each line in a [test file](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_4/data/LangId.test) using Laplace smoothing. These predictions are written to `predictions.txt`, and the accuracy and lines numbers of incorrect predictions are outputted.
+
+#### To run:
+Note that program 1 may take a few minutes to complete, and its output is required to execute program 2.
+
+`python3 .\cmb180010_program_1.py`
+`python3 .\cmb180010_program_2.py`
