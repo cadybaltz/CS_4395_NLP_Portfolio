@@ -1,0 +1,9 @@
+Air ticket Activity EN JP EN CN TW KR TH Find the best route including bullet train, bus, airline, and taxi.
+Compatible with your railway pass.
+Plan your trip by calculating the train cost and distance.
+Check the train schedule.
+View the route on a map.
+Know which station to transfer, which exit to go out.
+Tokyo Station Tokyo Kyoto Station Kyoto Osaka Station Osaka Kyoto Station Kyoto Hiroshima Station Hiroshima Kinkaku-ji Temple Kyoto Nara Park Nara Fushimi-Inari Taisha Kyoto Narita Int'l Airport Chiba Tokyo Station Tokyo Kansai Airport(Osaka) Osaka Namba(Osaka Metro) Station Osaka Shinjuku Station Tokyo Lake Kawaguchi Yamanashi Kanazawa Station Kanazawa Kyoto Station Kyoto Osaka Castle Osaka Universal Studios Japan Osaka © 2023 NAVITIME JAPAN.
+All Rights Reserved.
+プライバシーポリシー・利用規約に同意の上、ボタンを押してください。 ログイン（無料）するとより便利に利用できます

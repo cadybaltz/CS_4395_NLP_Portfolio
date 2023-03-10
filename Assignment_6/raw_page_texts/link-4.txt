@@ -1,0 +1,9 @@
+My Favorites ${v.desc | trunc(25)} ${v.desc | trunc(25)} Use the 
+
+
+
+ Share your travel photos with us by hashtagging your images with #visitjapanjp My Favorites Route search covers all means of public transportation including Japan Rail (JR), subway lines, airlines, taxis and ferry service.
+Route Search is compatible with JR Pass. Traffic delay and transportation service suspension information are provided, along with alternative route suggestions. There are regularly updated articles and information about tourist spots in Japan.
+Find places to go and things to do. Users can search for various spots by keywords, such as ATMs, luggage storage areas, free Wi-Fi services and hospitals.
+Facilities near the user's current location can be easily found on the map. There are alert notifications that warns of natural disasters, extreme weather and other emergencies.
+Helpful information on what to do when an emergency occurs, including directions to emergency shelters, where to get medical assistance, contact information for embassies and a communication card with useful phrases to help those with no knowledge of Japanese language are also provided. Please Choose Your Language Browse the JNTO site in one of multiple languages 
