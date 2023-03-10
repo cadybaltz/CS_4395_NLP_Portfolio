@@ -1,44 +1,57 @@
- This page uses a technology called JavaScript.Please note that if the JavaScript setting is not turned on, proper display and operation may not be possible.
-The most suitable service to send Size 60 to Size 200 parcels (linear dimension of up to 200cm and maximum weight of 30kg).Each parcel is insured up to 300,000 JPY (tax included).
-・・・・・ Send small parcels at a reasonable price.
-Same as TA-Q-BIN, all services are available.
-Sales Office handle the pickup and delivery of parcels for their designated areas, and serve as relay points for parcels.They can accept parcel drop offs, issue waybills and act as a delivery pick up location.Business hours, sending deadlines and services vary depending on each Sales Office.
-For more information, please find your nearest Sales Office.
-Parcels can be sent from delivery lockers installed in apartments.You can make a pickup request and make a payment with the Kuroneko Members website.Parcels will be collected the same day for requests that are made by 4:00pm.
-This service allows the pickup of parcels at Yamato Transport Sales Office throughout Japan.
-When a parcel has a Yamato Transport Sales Office is specified as the delivery destination on the waybill, it will be kept there temporarily.
-Customers can then go to the Sales Office to pick up their parcels.
-This system can save you money when sending two or more parcels simultaneously to the same destination.When sending more than one parcel, each additional parcel will receive a 100 JPY discountPlease use the Multiple-Parcel Waybill when using this service.
-A discount of 60 JPY per parcel is offered to customers who cooperate in the digitalization of waybill information.
-This discount applies to customers who issue waybills using the "Neko-Pit" tablet at a Sales Office managed by Yamato Transport or using "Waybill Issuing System C2" to print waybills with their computers at home.
-Yamato Transport's original e-money platform can save you money when paying for TA-Q-BIN services.
-Depending on the amount you charge onto your Kuroneko Members e-money card, you will receive the following discounts on shipping rates.
-A discount of 150 JPY (tax included) per parcel is offered to Kuroneko Members who drop off their parcels to a Sales Office managed by Yamato Transport, which the waybill is issued by using "Neko-Pit" at the Sales Office or printed by using "Waybill Issuing System C2" with their computers at home.
-Waybills can be issued using the following three methods: After a delivery has been completed, an email is sent within approximately one hour with the waybill number and the date and time of completed delivery.
-This service is available for customers who are sending parcels via TA-Q-BIN and can be used in all regions of Japan.
-If you use any of the following payment methods to pay for TA-Q-BIN (prepayment) and/or TA-Q-BIN Compact (prepayment), rates for cashless payments will apply.
-The parcel size is the total of width, length, and height in centimeters.
-When either the parcel size or weight exceeds the criteria as listed below, the size category for the greater of the two will be used.
-Regarding parcels that cannot be handled, please refer to the following link.
-Inquiry Business hours Menu number Procedures Even if parcels meet the size regulations, some items cannot be sent using TA-Q-BIN due to the parcel size (length), value of the parcel contents, packaging or the inclusion of dangerous items.
-For more information, please refer to "Items that Cannot be Sent by TA-Q-BIN."
-Parcels smaller than Size 60 Send small parcels at reasonable prices.Same as TA-Q-BIN, all services are available.
-Send perishables Keep perishables fresh at chilled or frozen conditions.
-For customers in a hurry Parcels accepted by the evening are delivered by 10:00 am the following morning.
-Send parcels overseas International TA-Q-BIN can be used to send gifts, products, and other goods to countries throughout the world.
-Please write the detailed description of the parcel contents.
-If a detailed description is not written, we will not be able to identify the contents of the parcel.This may affect delivery times or make it impossible to deliver the parcel.
-Please write the detailed description of the parcel contents.
-If a detailed description is not written, we will not be able to identify the contents of the parcel.This may affect delivery times or make it impossible to deliver the parcel.
-Please write the detailed description of the parcel contents.
-If a detailed description is not written, we will not be able to identify the contents of the parcel.This may affect delivery times or make it impossible to deliver the parcel.
-Please write the detailed description of the parcel contents.
-If a detailed description is not written, we will not be able to identify the contents of the parcel.This may affect delivery times or make it impossible to deliver the parcel.
-Click here to find out how to use the Sales Office Pickup Service and to search for a Yamato Transport Sales Office.
-Waybills are available at nearby Yamato Transport Sales Office, convenient stores and TA-Q-BIN Agencies.
-Information on how to pack each type of parcel.
-Information on packing materials which are designed based on Yamato's delivery experience and TA-Q-BIN know-how.
-Information on service counters that accept parcels and available payment methods.
-Please note that inquiries made after 6:00pm may be responded to after 9:00am the following day.
-The hours of operation differs depending on the type of inquiry.
-When difficult to connect with the toll-free number in English03-6757-1061 (9:00am to 6:00pm, 365 days a year)
+    English In the event of illness or injury, please follow the flow chart below to find a consultation service or a medical institution to visit.
+YES Please contact the consultation service of the prefecture in which you are staying as listed in the links.
+*In times outside of regular opening hours, please contact the Ministry of Health, Labour and Welfare COVID-19 Call Center.
+(0120-565-653) NO Please seek direct medical attention according to your symptoms.You can search for medical institutions using the âMedical Institution Searchâ tab above.
+âSelect area, language, and medical department.
+* Only basic information is provided here.
+Please check with each medical institution for details on medical treatment such as business hours and what language each facility can accommodate.
+* When possible, please contact each medical institution before visiting.
+* There may be cases where treatment cannot be provided.
+Search fromcurrent location Search by region Base medical institutions, selected by prefectures, that can provide services to foreign emergency patients requiring hospitalization.
+Base medical institutions, selected by prefectures, that can provide services to foreign patients (including clinics and dental clinics).
+* Medical institutions in the categories above have a Base medical institution attached to them.
+Search Reset Language Codes: * Some medical institutions may not be able to support certain languages, depending on the circumstances.
+* Patients may be referred to another medical institution, depending on the extent of the illness or injury.
+* Travel insurance does not cover perinatal medical care, which could make it expensive.
+* Results are listed in order of shortest distance in a straight line from your current location.
+* Please note that they differ from actual route distances.
+* Up to 30 search results are displayed.
+No matches found.Click here for a list of searched prefectures.
+Enter the contents you would like to search.
+No matches found.
+Unable to get your current location.Please enable location information.Search results may not be displayed properly depending on the browsing environment.
+Try other search methods ("Search by area", "Free word search", etc.).
+PDF Download The type of medical institution you need differs between time of use,if it is an emergency, and the level of severity.
+Emergency hospital Available 24 hours a day,365 days a year.
+If you need doctorsâ assistance  If you do not need doctorsâ assistance ææ¥è»ãå¼ãã§ãã ããã(Please call an ambulance.)
+You cannot choose which hospital you will be brought to.
+Depending on your condition, you may be given treatment without being questioned, so it is important to fill out the sheet below.
+â1 The medical care system varies by country.
+Avoid diï¬culties by learning about them in advance.Ask for a general estimate of the treatment cost at reception.
+*There is a limited number of medical institutions that can accommodate other languages.
+Personal information concerning medical careto write downï¼PDFï¼ Sheet for pointing to symptoms and their descriptionsï¼PDFï¼ *1 Be sure to listen carefully to the explanation of the examination results.
+*2 Payment here is the cost for treatment received up to this point.
+Keep in mind that payment by credit card is only accepted at major hospitals.
+Clinics generally accept cash only.If you are subscribed to overseas travel insurance including cash-free payment service, there is no need for payment.
+However, if you are not subscribed to overseas travel insurance, you may be charged the full amount.Note: The cash-free conditions vary by insurance company.
+Please check beforehand.
+*3 You will be charged separately at the pharmacy for any medicine you need.
+Some medical institutions provide in-house prescriptions.
+A PDF file is available for you to print out the above information and hand it to foreign visitors to Japan.
+Guide for using medical institutionsï¼PDFï¼ Private medical insurance that you can purchase after entering Japan provides sufficient coverage during your stay, even for COVID-19.
+*A system that allows short-term visitors, etc.
+to seek medical care without having to pay the bill on-site by sending the bill to an insurance company (including assistant companies to which services are outsourced) instead of billing the short-stay visitor, etc.
+directly.
+Private medical insurance can be purchased instantly online.
+Enjoy your trip to Japan to the fullest by purchasing insurance with sufficient coverage and services.
+*Cannot be accessed before entering Japan.
+Collision with a bicycle resulting in traumatic pneumothorax and fractured ribs Surgery, 19-day hospital stay, attending physician,flight back to the US on civilian aircraft (business class) Heart attack Surgery, 45-day hospital stay, attending physician, flight back to Singapore on civilian aircraft (business class) *Source: Tokio Marine International Assistance Donât forget to buy travel insurance!
+(30 sec.)
+When there is a fire or traffic accident.
+When someone is seriously sick or injured.
+119 When there is a traffic accident.
+When a crime (robbery, assault, etc.)
+has been committed.
+110 The Japan National Tourism Organization (JNTO) operates a 24/7 multilingual call center service "Japan Visitor Hotline".
+If you are a foreign visitor to Japan and are in need of assistance, please contact us.
+Ministry of Foreign Affairs linksï¼ãForeign Missions in Japanãï¼Englishï¼ https://www.mofa.go.jp/about/emb_cons/protocol/index.html

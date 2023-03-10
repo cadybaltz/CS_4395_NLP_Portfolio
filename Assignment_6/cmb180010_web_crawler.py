@@ -15,6 +15,8 @@ import re
 import mysql.connector
 from collections import deque
 
+RAW_TEXT_DIR = 'raw_page_texts'
+CLEANED_TEXT_DIR = 'cleaned_page_texts'
 
 def get_url_page_text(url):
     try:
@@ -42,21 +44,27 @@ def web_crawler(starter_url):
 
         if current_url is not None and current_url.startswith('http'):
             try:
-                r = requests.get(current_url, timeout=1)
-                data = r.text
-                soup = BeautifulSoup(data, features="html.parser")
-                page_text = soup.text
+                # r = requests.get(current_url, timeout=1)
+                # data = r.text
+                # soup = BeautifulSoup(data, features="html.parser")
+                # page_text = soup.text
+                raw_page_text = get_paragraph_text(current_url)
 
-                if page_text is not None:
-                    words = page_text.split()
+                if raw_page_text is not None:
+                    words = raw_page_text.split()
                     num_words_on_page = len(words)
 
                     if num_words_on_page > 500 and len(words[0]) == len(words[0].encode()):
                         if current_hostname not in related_hostnames and current_hostname not in blocked_hosts:
                             related_links.append(current_url)
                             print('Adding new link: ' + current_url)
+                            print("BACK: " + str(len(related_links)))
+                            create_raw_text_file(raw_page_text, len(related_links))
                             link_queue.append(current_url)
 
+                            r = requests.get(current_url, timeout=1)
+                            data = r.text
+                            soup = BeautifulSoup(data, features="html.parser")
                             all_links = set(soup.find_all('a'))
                             for link in all_links:
                                 link_href = link.get('href')
@@ -77,29 +85,50 @@ def web_crawler(starter_url):
         x = 0
         while len(related_links) < 15 and x < len(links_in_same_domain):
             related_links.append(links_in_same_domain[x])
+            print('Adding new link: ' + current_url)
+            print("HERE: " + str(len(related_links)))
+            create_raw_text_file(raw_page_text, len(related_links))
+            link_queue.append(current_url)
             x += 1
 
     return related_links
 
-
-def scrape_text(url_list):
-    dir_name = 'raw_page_texts'
-
-    os.makedirs(dir_name, exist_ok=True)
-
-    for x in range(len(url_list)):
-        r = requests.get(url_list[x])
+def get_paragraph_text(url):
+    try:
+        r = requests.get(url, timeout=1)
         data = r.text
         soup = BeautifulSoup(data, features="html.parser")
         paragraph_text = ''
         for paragraph in soup.find_all("p"):
             paragraph_text += paragraph.get_text()
             paragraph_text += ' '
+        return paragraph_text
+    except:
+        print("Could not reach the link: " + url)
+        return None
 
-        link_file = open("raw_page_texts/link-" + str(x + 1) + ".txt", "w", encoding="utf8")
-        link_file.write(paragraph_text)
+def create_raw_text_file(raw_text, link_number):
+    link_file = open(RAW_TEXT_DIR + "/link-" + str(link_number + 1) + ".txt", "w", encoding="utf8")
+    link_file.write(raw_text)
 
-    return dir_name
+# def scrape_text(url_list):
+#     dir_name = 'raw_page_texts'
+#
+#     os.makedirs(dir_name, exist_ok=True)
+#
+#     for x in range(len(url_list)):
+#         r = requests.get(url_list[x], timeout=1)
+#         data = r.text
+#         soup = BeautifulSoup(data, features="html.parser")
+#         paragraph_text = ''
+#         for paragraph in soup.find_all("p"):
+#             paragraph_text += paragraph.get_text()
+#             paragraph_text += ' '
+#
+#         link_file = open("raw_page_texts/link-" + str(x + 1) + ".txt", "w", encoding="utf8")
+#         link_file.write(paragraph_text)
+#
+#     return dir_name
 
 
 def clean_text(old_dir):
@@ -188,10 +217,10 @@ if __name__ == '__main__':
     for x in range(len(related_links)):
         print(str(x+1) + '. ' + related_links[x])
 
-    raw_text_dir = scrape_text(related_links)
-    raw_text_dir = 'raw_page_texts'
+    # raw_text_dir = scrape_text(related_links)
+    # raw_text_dir = 'raw_page_texts'
 
-    clean_dir = clean_text(raw_text_dir)
+    clean_dir = clean_text(RAW_TEXT_DIR)
 
     clean_dir = 'cleaned_page_texts'
 
