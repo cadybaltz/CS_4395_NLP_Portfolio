@@ -9,6 +9,7 @@ This is my portfolio for the course CS 4395: Human Language Technologies (Spring
 - [Assignment 3: WordNet](#assignment-3-wordnet)
 - [Assignment 4: Ngrams](#assignment-4-ngrams)
 - [Assignment 5: Sentence Parsing](#assignment-5-sentence-parsing)
+- [Assignment 6: Web Crawler](#assignment-6-web-crawler)
 
 -----
 
@@ -76,3 +77,9 @@ Note that program 1 may take a few minutes to complete, and its output is requir
 ### Assignment 5: Sentence Parsing
 
 You can view my comparison of PSG, dependency, and SRL parsing [here](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_5/cmb180010_sentence_parsing.pdf).
+
+-----
+
+### Assignment 6: Web Crawler
+
+You can view my web crawler code [here](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_6/cmb180010_web_crawler.py) and my report [here](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_6/cmb180010_web_crawler_report.pdf).

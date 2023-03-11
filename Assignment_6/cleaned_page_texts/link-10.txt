@@ -1,44 +1,23 @@
- This page uses a technology called JavaScript.Please note that if the JavaScript setting is not turned on, proper display and operation may not be possible.
-The most suitable service to send Size 60 to Size 200 parcels (linear dimension of up to 200cm and maximum weight of 30kg).Each parcel is insured up to 300,000 JPY (tax included).
-・・・・・ Send small parcels at a reasonable price.
-Same as TA-Q-BIN, all services are available.
-Sales Office handle the pickup and delivery of parcels for their designated areas, and serve as relay points for parcels.They can accept parcel drop offs, issue waybills and act as a delivery pick up location.Business hours, sending deadlines and services vary depending on each Sales Office.
-For more information, please find your nearest Sales Office.
-Parcels can be sent from delivery lockers installed in apartments.You can make a pickup request and make a payment with the Kuroneko Members website.Parcels will be collected the same day for requests that are made by 4:00pm.
-This service allows the pickup of parcels at Yamato Transport Sales Office throughout Japan.
-When a parcel has a Yamato Transport Sales Office is specified as the delivery destination on the waybill, it will be kept there temporarily.
-Customers can then go to the Sales Office to pick up their parcels.
-This system can save you money when sending two or more parcels simultaneously to the same destination.When sending more than one parcel, each additional parcel will receive a 100 JPY discountPlease use the Multiple-Parcel Waybill when using this service.
-A discount of 60 JPY per parcel is offered to customers who cooperate in the digitalization of waybill information.
-This discount applies to customers who issue waybills using the "Neko-Pit" tablet at a Sales Office managed by Yamato Transport or using "Waybill Issuing System C2" to print waybills with their computers at home.
-Yamato Transport's original e-money platform can save you money when paying for TA-Q-BIN services.
-Depending on the amount you charge onto your Kuroneko Members e-money card, you will receive the following discounts on shipping rates.
-A discount of 150 JPY (tax included) per parcel is offered to Kuroneko Members who drop off their parcels to a Sales Office managed by Yamato Transport, which the waybill is issued by using "Neko-Pit" at the Sales Office or printed by using "Waybill Issuing System C2" with their computers at home.
-Waybills can be issued using the following three methods: After a delivery has been completed, an email is sent within approximately one hour with the waybill number and the date and time of completed delivery.
-This service is available for customers who are sending parcels via TA-Q-BIN and can be used in all regions of Japan.
-If you use any of the following payment methods to pay for TA-Q-BIN (prepayment) and/or TA-Q-BIN Compact (prepayment), rates for cashless payments will apply.
-The parcel size is the total of width, length, and height in centimeters.
-When either the parcel size or weight exceeds the criteria as listed below, the size category for the greater of the two will be used.
-Regarding parcels that cannot be handled, please refer to the following link.
-Inquiry Business hours Menu number Procedures Even if parcels meet the size regulations, some items cannot be sent using TA-Q-BIN due to the parcel size (length), value of the parcel contents, packaging or the inclusion of dangerous items.
-For more information, please refer to "Items that Cannot be Sent by TA-Q-BIN."
-Parcels smaller than Size 60 Send small parcels at reasonable prices.Same as TA-Q-BIN, all services are available.
-Send perishables Keep perishables fresh at chilled or frozen conditions.
-For customers in a hurry Parcels accepted by the evening are delivered by 10:00 am the following morning.
-Send parcels overseas International TA-Q-BIN can be used to send gifts, products, and other goods to countries throughout the world.
-Please write the detailed description of the parcel contents.
-If a detailed description is not written, we will not be able to identify the contents of the parcel.This may affect delivery times or make it impossible to deliver the parcel.
-Please write the detailed description of the parcel contents.
-If a detailed description is not written, we will not be able to identify the contents of the parcel.This may affect delivery times or make it impossible to deliver the parcel.
-Please write the detailed description of the parcel contents.
-If a detailed description is not written, we will not be able to identify the contents of the parcel.This may affect delivery times or make it impossible to deliver the parcel.
-Please write the detailed description of the parcel contents.
-If a detailed description is not written, we will not be able to identify the contents of the parcel.This may affect delivery times or make it impossible to deliver the parcel.
-Click here to find out how to use the Sales Office Pickup Service and to search for a Yamato Transport Sales Office.
-Waybills are available at nearby Yamato Transport Sales Office, convenient stores and TA-Q-BIN Agencies.
-Information on how to pack each type of parcel.
-Information on packing materials which are designed based on Yamato's delivery experience and TA-Q-BIN know-how.
-Information on service counters that accept parcels and available payment methods.
-Please note that inquiries made after 6:00pm may be responded to after 9:00am the following day.
-The hours of operation differs depending on the type of inquiry.
-When difficult to connect with the toll-free number in English03-6757-1061 (9:00am to 6:00pm, 365 days a year)
+The Ministry of Foreign Affairs website uses JavaScript.Please turn on "JavaScript" and use it.
+The denial of landing that had been placed to all the countries/regions were lifted on September 4, 2022.
+Please refer to the page of Immigration Services Agency.
+Currently, there are no subject countries/regions.
+From 0:00 am (JST) on December 30, 2022, all travelers and returnees who have stayed in China (excluding Hong Kong and Macau) within 7 days prior to the entry and all travelers and returnees arriving from China (excluding Hong Kong) by direct flight are required to take on-arrival test at the quarantine station.
+However, from 0:00 am (JST) on March 1, 2023, up to approximately 20% of the all travelers and returnees arriving from China (excluding Hong Kong and Macau) by direct flight will be subject to an on-arrival COVID-19 test to take samples for genome sequence analysis.
+(NEW) From 0:00 am (JST) on January 12 to February 28, 2023, all travelers and returnees arriving from Macau by direct flight are required to submit a certificate of negative result of COVID-19 test conducted within 72 hours prior to departure with or without a vaccination certificate.
+From 0:00 am (JST) on March 1, 2023, all travelers and returnees arriving from Macau by direct flight will be required to submit either a certificate of negative result of COVID-19 test conducted within 72 hours prior to departure or a valid COVID-19 vaccination certificate of three doses or equivalent.
+(NEW) All travelers and returnees arriving from China (excluding Hong Kong and Macau) by direct flight are required to submit a certificate of negative result of COVID-19 test conducted within 72 hours prior to departure with or without a vaccination certificate (effective since January 8, 2023).
+(NEW) Please refer to the page of Ministry of Health, Labour and Welfare (entering Japan by February 28, 2023 (PDF) / entering Japan after March 1, 2023 (PDF) ).
+Starting from 0:00 am (JST) on October 11, 2022, based on the New Border Measures (34), for all cross-border travelers and returnees from countries/regions where the B.1.1.529 Omicron variant becomes dominant (all countries/regions except for those where COVID-19 variants other than the Omicron variant become dominant, based on the New Border Measures (27) (February 24, 2022)), self-quarantine in places such as their own residence or accommodations and refraining from use of public transportation are no longer required in principle.On arrival COVID-19 testing is no longer required unless entrants and returnees have suspected COVID-19.
+However, all returnees and entrants are required to provide either a valid COVID-19 vaccination certificate (3 doses) of vaccines on the Emergency Use List of World Health Organization (WHO) or a certificate of negative result of pre-departure COVID-19 test taken within 72 hours prior to departing from the original country/region.
+Taking such elements as knowledge of COVID-19 variants of special treatment on border measures, epidemic situation in each country/region, risk assessment of current situation of inflow of the COVID-19 to Japan, and efficacy of the vaccination among others into account, and judged from a comprehensive risk assessment of inflow of coronavirus from each country/region, the following additional measures will be implemented as designated countries/regions in response to COVID-19 variants of special treatment on border measures according to separate designation based on this measure; With regard to countries/regions other than countries/regions based on the designation mentioned in (2) above, taking such elements as knowledge of COVID-19, epidemic situation in each country/region, risk assessment of current situation of inflow of COVID-19 to Japan, and efficacy of the vaccination among others into account, and judged from a comprehensive assessment of the risk of inflow of the coronavirus from each country/region, all cross-border travelers and returnees from countries/regions judged with high risk of inflow of COVID-19 are requested, for the time being, to stay 3 days at facilities designated by the Chief of the Quarantine Station (limited only to those facilities secured by the Quarantine Station) as “designated countries/regions in response to coronavirus infection other than COVID-19 variants of special treatment on border measures” according to the separate designation based on this measure.
+In addition, those who obtain a negative result of COVID-19 test conducted on the third day from the entry into Japan, may leave the facilities, but are still required to stay for the remaining period of 7 days after the entry into Japan at places such as own residence Single entry visa and multiple entry visa which have been issued by Embassies, Consulate-Generals and Consulates of Japan in all countries/regions and whose validity have been temporarily suspended have been resumed again from 0:00 am (JST) on October 11, 2022.
+As for visas already issued under âBusiness Trackâ or âResidence Trackâ and visas issued based on âNew border measures (4)â (referred in Note 2 of Article 1), for the time being, validity of those visas have been suspended from 0:00 am (JST) on January 21, 2021 based on the announcement of the Government of Japan dated on January 13, 2021.
+The visa exemption arrangements which have been temporarily suspended under the border measures have been resumed from 0:00 am (JST) on October 11, 2022.
+For countries/regions applicable to the visa exemption arrangements, please visit the link below: The effect of Pre-Clearances (i.e.
+visa exemptions) granted by the Japanese Government to APEC Business Travel Card (ABTC) issued by the following countries has been also resumed from 0:00 am (JST) on October 11, 2022.
+For more information on the APEC Business Travel Card (ABTC), please refer to the link below: Regarding airports/ports that currently suspend international flights/cruises, preparation toward resumption of international flights/cruises in response to upcoming flight/cruise plans has been conducted on a port-by-port basis, in cooperation with local governments, etc.
+The international flights/cruises at those airports/ports have been resumed from those airports/ports whose preparations are completed.
+Temporary measures regarding direct flights from China (NEW) Relevant airlines will be requested once again to thoroughly confirm before boarding that their passengers possess a certificate of negative result of COVID-19 test conducted within 72 hours prior to departure.
+Assuming that sufficient quarantine capacity is available, direct flights from China (including Hong Kong and Macau) will be allowed to land at airports other than Narita International Airport, Haneda Airport, Kansai International Airport, and Chubu Centrair International Airport, and airlines will be allowed to increase the number of those flights.
+Copyright © Ministry of Foreign Affairs of Japan Ministry of Foreign Affairs of Japan 2-2-1 Kasumigaseki, Chiyoda-ku, Tokyo 100-8919, Japan MAPPhone: +81-(0)3-3580-3311  Japan Corporate Number(JCN): 9000012040001

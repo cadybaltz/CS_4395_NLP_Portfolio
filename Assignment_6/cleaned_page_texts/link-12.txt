@@ -1,27 +1,51 @@
-Last updated September 5, 2013 After the March 11, 2011 earthquake and tsunami damaged the Fukushima Daiichi nuclear power plant, radiation was released into the environment near the plant.
-Japanese government officials have taken steps to protect public health, including evacuating the area around the plant and stopping production and distribution of food from affected areas to other parts of Japan and the world.
-Japan has also implemented a broad program of radiation monitoring, centering on Fukushima Prefecture.
-Regular monitoring of air, food, and water for radiation continues and additional information on these activities is provided below.
-Summer 2014: Concern over Fukushima Daiichi Water Leaks Continues More than three years after the accident, the Fukushima Daiichi nuclear power plant is stable, but still severely damaged.
-The Tokyo Electric Power Company (TEPCO) is working with Japanese government agencies to address leaks of contaminated water on the site.
-TEPCO and Japanese government agencies routinely monitor levels of radiation in the seawater near the Fukushima Daiichi nuclear power plant to identify contamination levels.
-TEPCO provides regular technical updates in English of its efforts and radiation monitoring.
-Japanese authorities have not identified any radiation levels, outside of restricted access areas, that increase radiation exposure risks for residents of Japan.
-Japanese authorities also conduct regular inspections of food and tap water and have not identified any increased radiation levels.
-For more information on these efforts and to view the latest results, please see the links below.
-About radiation exposure or contamination The U.S. Centers for Disease Control and Prevention and the Environmental Protection Agency (EPA) provide helpful information about radiation and its health effects.
-Food and Water As in the United States, the Japanese government has set standards for radioactive material in food and beverages to protect public health.
-Japan's Cabinet Office posted an English summary of Food Safety in Japan following the 2011 nuclear accident.
-(The pdf can also be found here.)
-Radioactivity measurements in food, water, and the environment are collected and updated regularly by Japan's Nuclear Regulation Authority.
-Â The Nuclear Regulation Authority divides responsibilities for radiation monitoring with several other agencies, in accordance with its Comprehensive Radiation Monitoring Plan.
-Japan's Ministry of Health, Labor and Welfare (MHLW) is responsible for food safety in agricultural, forestry, livestock, and fishery products.
-MHLW regularly updates its English language website with information on the safety of water and specific foods in Japan.
-MHLW has not restricted tap water intake since May 2011, but tap water is routinely surveyed.
-Japan's Fisheries Agencyâunder the Ministry of Agriculture, Forestry, and Fisheriesâworks with prefectural governments and local fishery groups to sample and inspect fishery products at major ports in Fukushima Prefecture and nearby prefectures for radioactive contamination on a weekly basis.
-More resources The U.S. Nuclear Regulatory Commission (NRC) regulates nuclear material in the United States.
-The U.S. Environmental Protection Agency (EPA) provides general radiation protection guidance to the U.S. federal government and states for use in developing radiation protection rules and regulations to protect the American public from the harmful effects of radiation.
-Further information about the radioactive isotopes commonly identified at the Fukushima Dai-ichi nuclear power plant can be found here: World Health Organization International Atomic Energy Agency On this Page: • Exposure or contamination • Food and Water • More resources Please sign up for travel updates and Embassy Warden Messages!
-U.S.
-Experts Discuss Health & Radiation Videos • Ms. Jana Telfer, Centers for Disease Control: Health and Radiation • Dr.
-Norm Coleman, National Cancer Institute: Understanding Radiation • Captain Michael Noska, PhD, U.S. Food and Drug Administration: Food and Water Safety • Dr. Steve Simon, National Cancer Institute: Radiation Risk
+My Favorites ${v.desc | trunc(25)} ${v.desc | trunc(25)} Use the  Share your travel photos with us by hashtagging your images with #visitjapanjp My Favorites      Languages: English / 한국어 / 简体中文 / 繁體中文(臺灣) / 繁體中文(香港) / Tiếng Việt / Bahasa Indonesia   Last updated: February 27, 2023     Measures by the Government of Japan 1.
+Areas subjected to entry ban 2.
+Denial of the re-entry from designated countries/regions in response to COVID-19 variants of special treatment on border measures 3.
+Quarantine measures 4.
+Suspension of visa validity 5.
+Suspension of visa exemption measures 6.
+Restrictions on airports/ports for arrival 7.
+Visit Japan Web   All coronavirus-related information on this website is gathered from the government ministries and authorities responsible for handling COVID-19 restrictions and measures.
+Due to the regularly changing situation and the constant updating of information, it is essential that you always check for updates and follow the latest guidance from the relevant ministries and official bodies.
+Information about entry into Japan New entry of foreign nationals Regarding new entry of foreign nationals into Japan, prescribed applications in the Entrants, Returnees Follow-up Systems (ERFS) is no longer required.
+And the measure to limit the entry of foreign tourists to those on package tours was lifted.In addition, visa exemption arrangements have been resumed.
+Please refer to 5.
+Suspension of visa exemption measures for more details.Furthermore, suspension of visa validity under the border measures was also lifted on October 11, 2022.
+Please refer to 4.
+Suspension of visa validity below for further information.
+Quarantine measures All travelers and returnees arriving from China (excluding Hong Kong and Macau) by direct flights are required to submit a certificate of negative result of pre-departure COVID-19 test conducted within 72 hours prior to departure.
+In addition, up to approximately 20% of travelers and returnees arriving from China (excluding Hong Kong and Macau) by direct flights are subject to an on-arrival COVID-19 test to take samples for genome sequence analysis from 12:00am (Midnight/JST) on March 1, 2023.
+For all cross-border travelers and returnees from countries/regions where the B.1.1.529 Omicron variant becomes dominant (all countries/regions except for those where COVID-19 variants other than the Omicron variant become dominant), on-arrival test at the quarantine station, self-quarantine in places such as their own residence or accommodations, and refraining from use of public transportation are no longer required in principle.
+However, all returnees and entrants are required to provide either a valid COVID-19 vaccination certificate (3 doses) of vaccines on the Emergency Use List of World Health Organization (WHO)  or a certificate of negative result of pre-departure COVID-19 test conducted within 72 hours prior to departing from the original country/region .
+For FAQ about Quarantine measures, please refer to the following page.https://www.mhlw.go.jp/stf/covid-19/bordercontrol.html    1.
+Areas subjected to entry ban There are no countries/regions subjected to the entry ban after September 4, 2022.
+For details, please check the following page.https://www.mofa.go.jp/ca/fna/page4e_001053.html#section1      2.
+Denial of the re-entry from designated countries/regions in response to COVID-19 variants of special treatment on border measures Currently, there are no countries/regions subjected to the measure.
+For details, please check the following page.https://www.mofa.go.jp/ca/fna/page4e_001053.html#section2      3.
+Quarantine measures (1) Entering Japan from China  from March 1, 2023 All travelers and returnees arriving from China (excluding Hong Kong and Macau) by direct flights are required to submit a certificate of negative result of pre-departure COVID-19 test conducted within 72 hours prior to departure.
+In addition, up to approximately 20% of travelers and returnees arriving from China (excluding Hong Kong and Macau) by direct flights are subject to an on-arrival COVID-19 test to take samples for genome sequence analysis from 12:00am (Midnight/JST) on March 1, 2023.
+Please refer to the following page by Ministry of Health, Labour and Welfare.
+"For those who are entering Japan from China starting March 1st, 2023" .
+(2) From October 11, 2022: Review on the on-arrival COVID-19 test and the quarantine period after entry into Japan From October 11, 2022, for all cross-border travelers and returnees from countries/regions where the B.1.1.529 Omicron variant becomes dominant (all countries/regions except for those where COVID-19 variants other than the Omicron variant become dominant), self-quarantine in places such as their own residence or accommodations and refraining from use of public transportation are no longer required in principle.
+On arrival COVID-19 testing is no longer required unless entrants or returnees are suspected of having COVID-19.
+However, all returnees and entrants are required to provide either a valid COVID-19 vaccination certificate (3 doses) of vaccines on the Emergency Use List of World Health Organization (WHO)  or a certificate of negative result of pre-departure COVID-19 test conducted within 72 hours prior to departing from the original country/region .
+For the latest information, please check the following page.
+https://www.mofa.go.jp/ca/fna/page4e_001053.html#section3      4.
+Suspension of visa validity Single entry visa and multiple entry visa issued by Embassies, Consulate-Generals, and Consulates of Japan in all countries/regions whose validity had been temporary suspended resumed on October 11, 2022.
+Validity of visas issued under “Business Track” / “Residence Track” or “New border measures (4)” is suspended for the time being.
+For details, please check the following page.
+https://www.mofa.go.jp/ca/fna/page4e_001053.html#section8      5.
+Suspension of visa exemption measures The visa exemption arrangements have been resumed since October 11, 2022.
+For countries/regions applicable to the visa exemption arrangements, please visit the link below:   The effect of Pre-Clearances (i.e.
+visa exemptions) granted by the Japanese Government to APEC Business Travel Card (ABTC) issued by the following countries/regions has been also resumed since October 11, 2022.
+For details, please check the following page.
+https://www.mofa.go.jp/ca/fna/page4e_001053.html#section9      6.
+Restrictions on airports/ports for arrival Airports/ports that currently suspend international flights/cruises will resume international flights/cruises in response to upcoming flight/cruise plans as soon as a port-by-port basis preparations in cooperation with local governments are completed.
+Temporary measures regarding direct flights from ChinaFrom December 30, 2022, relevant airlines are requested to limit the place of the landing of direct flights between China (including Hong Kong and Macau) and Japan to Narita International Airport, Haneda Airport, Kansai International Airport, and Chubu Centrair International Airport, and not to increase the number of those flights.
+When assuming quarantine capacity at the airport is sufficient, relevant airlines are allowed to land at airports other than Narita International Airport, Haneda Airport, Kansai International Airport, and Chubu Centrair International Airport, and to increase the number of those flights.
+For details, please check the following page.
+https://www.mofa.go.jp/ca/fna/page4e_001053.html#section10    7.
+Visit Japan Web Visit Japan Web is a convenient way to register information for quarantine, immigration and customs procedures before you enter Japan.
+After the registration, QR codes are generated.
+Visit Japan Web (Digital Agency)        out of  found this information helpful.
+Please Choose Your Language Browse the JNTO site in one of multiple languages
