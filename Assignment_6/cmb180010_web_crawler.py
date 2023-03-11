@@ -16,7 +16,7 @@ import re
 import mysql.connector
 from collections import deque
 
-# Hardcode constant variables in this program
+# hardcode constant variables used throughout this program
 
 RAW_TEXT_DIR = 'raw_page_texts'
 CLEANED_TEXT_DIR = 'cleaned_page_texts'
@@ -24,6 +24,8 @@ CLEANED_TEXT_DIR = 'cleaned_page_texts'
 PICKLE_FILE_NAME = 'chatbot_kb.p'
 
 SQL_DB_NAME = 'chatbot_kb'
+
+# change these values to your local MySQL configuration
 SQL_HOST = 'localhost'
 SQL_USER = 'root'
 SQL_PASSWORD = 'root'
@@ -36,6 +38,10 @@ def web_crawler(starter_url):
           Returns:
               related_links: Array of 15 URL strings that contain at least 500 words of content
     """
+
+    print()
+    print("Starting web crawler")
+
     related_links = []
     related_hostnames = set()
     link_queue = deque([starter_url])
@@ -56,7 +62,7 @@ def web_crawler(starter_url):
     num_iter = 0
 
     # continue searching until you find 15 relevant links
-    while len(related_links) < 15 and num_iter < 1000:
+    while len(related_links) < 15 and num_iter < 1000 and len(link_queue) > 0:
 
         # pop the next link to check off the queue
         current_url = link_queue.popleft()
@@ -91,7 +97,7 @@ def web_crawler(starter_url):
                 and current_hostname not in blocked_hosts:
 
             related_links.append(current_url)
-            print('Adding new link: ' + current_url)
+            print('Found relevant link: ' + current_url)
 
             # dump the raw text to a new file
             create_raw_text_file(raw_page_text, len(related_links))
@@ -255,7 +261,7 @@ def create_knowledge_base_dict(top_10_terms):
 
                 # if one (or more) of the 10 terms is in the sentence, add the sentence to this term's dict entry
                 for term in top_10_terms:
-                    if term in sentence:
+                    if term in sentence and sentence.strip() not in kb[term]:
                         kb[term].append(sentence.strip())
     return kb
 
@@ -427,6 +433,7 @@ if __name__ == '__main__':
     related_links = web_crawler('https://en.m.wikivoyage.org/wiki/Japan')
 
     # print the 15 URLs that were returned
+    print()
     print("Relevant URLs found: ")
     for x in range(len(related_links)):
        print(str(x+1) + '. ' + related_links[x])
@@ -435,6 +442,7 @@ if __name__ == '__main__':
     clean_text()
 
     top_25_terms = get_top_25_terms()
+    print()
     print("Top 25 Most Frequent Terms")
     for x in range(len(top_25_terms)):
         print(str(x+1) + '. ' + top_25_terms[x])
@@ -452,6 +460,7 @@ if __name__ == '__main__':
         'international',
         'stores'
     ]
+    print()
     print("Selected 10 Terms for Knowledge Base:")
     for x in range(len(selected_10_terms)):
         print(str(x + 1) + '. ' + selected_10_terms[x])
@@ -463,6 +472,7 @@ if __name__ == '__main__':
     pickle.dump(kb_dict, open(PICKLE_FILE_NAME, 'wb'))
 
     # also store the resulting dictionary in a MySQL database
+    print()
     if create_or_update_sql_db(kb_dict):
         print("Successfully created SQL database " + SQL_DB_NAME)
     else:

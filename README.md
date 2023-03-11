@@ -82,4 +82,11 @@ You can view my comparison of PSG, dependency, and SRL parsing [here](https://gi
 
 ### Assignment 6: Web Crawler
 
-You can view my web crawler code [here](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_6/cmb180010_web_crawler.py) and my report [here](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_6/cmb180010_web_crawler_report.pdf).
+In this assignment, I created a web crawler to generate a SQL knowledge base about tourism in Japan.
+
+You can view my web crawler code [here](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_6/cmb180010_web_crawler.py) and my report about the project [here](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_6/cmb180010_web_crawler_report.pdf).
+
+Note that you must have SQL set up on your machine to create the database. Otherwise, you can access the database content from the Pickle file that is generated.
+
+`python3 .\cmb180010_web_crawler.py`
+

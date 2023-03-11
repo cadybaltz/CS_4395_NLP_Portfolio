@@ -1,3 +1,162 @@
-With more than 60,000 taxis covering all 47 prefectures (*1) of Japan, JapanTaxi is the ultimate taxi app you ever need in Japan! Tap to call a taxi, make a reservation or find your fare instantly. Paying your fare is easy! Connect your preferred payment method (credit cards, Apple Pay or other payment options) to the Online Payment feature to order, ride and pay blissfully hassle-free!*1 As of October, 2018.About JapanTaxi App1. Call a TaxiSelect your pickup location on the app to request a taxi. You can customize your order by selecting a drop-off location, a number of vehicles, type of vehicle and payment method. When your order matches with a nearby taxi, it will give you an estimated time of arrival. It’s that easy!2. Make a ReservationPlace an order in advance and give yourself a piece of mind. After selecting the date and time, just follow the same steps as “Call a Taxi.”3. Fare FinderGo to Calculate Fare and enter pick-up and drop-off locations. We will show you an estimated fare and travel time. *The actual fare will vary depending on traffic, road conditions and route taken.4. Airport Fixed RateTravel smart with our Airport Fixed Rate! The flat rate taxi service is available in selected cities and the fee may vary by participating taxi company.5. JapanTaxi Wallet and Cashless Payment OptionsLink your payment method to your JapanTaxi account and pay your fare seamlessly. The Online Payment feature accepts credit cards and other online payment services. (*2)*2 As of August 2019, the following services are available; Apple Pay, credit cards,d payment and Google Pay.*3 As of August 2018, JapanTaxi Wallet is available in 4,500 NihonKotsu taxis equipped with the electronic tablet within the 23 districts of Tokyo and Musashino city and Mitaka city.Note・This application requires network service and GPS.・The current version requires iOS 11 or newer.・Orders placed through this app is the same as requesting a taxi by a phone call. As such, some taxi companies may add a Radio Dispatch Fee to your fare total.・Ride availability depends on an area, weather and road condition.・Fare Calculation is based on the calculated route offered by Google Map Service. Therefore, the actual route may vary. Estimated fare does not include tolls, radio dispatch fees, and/or reservation fees.・Please check the participating taxi companies and service areas before making an order.・Some of the in-app functions are only available with participating taxi companies. Some taxi companies do not receive drop-off location data or offer advanced reservations or cashless payment options.・Campaigns are not affiliated in any way with Apple. Version 4.5.23 Thank you for using our service.From now on, the operation of the cab application will be integrated into the "GO" application.Accordingly, we will stop accepting orders for the JapanTaxi app from February 2023.== ==[Recent updates]- JapanTaxiWallet service is no longer available.- We no longer accept orders through the application.If you have any comments or questions, please send them to our support desk.JapanTaxi Development Team 1.7K Ratings I had a minor emergency last night and needed to go over to a nearby hospital after midnight. Nothing important (minor toe injury, fine now) and used the JapanTaxi app on my iPhone for the first time. It's really nice. It would have taken forever to stand on the corner in my neighborhood and wait for a taxi at that hour. I was able to set up what they needed in just a minute, and the taxi came in 5 minutes. Same on the way home. And you can see the location of the taxi on a map while you're waiting. You can just select to "come to my current location." No input is needed.You can rate the driver. And there is a center to call into and they immediately know who you are and the number of the taxi you used. I called them from the hospital because I dropped my hospital card in the back while paying for the ride with my iPhone.Anyway, I highly recommend the app. Thank you very much for the review. We are pleased to hear you were satisfied with the app. Please use JapanTaxi app! So I did a trip to Japan the past couple weeks and this app was useful... at times. It does work despite what some of the comments below say. I think the biggest issue that not enough company’s in Japan are connected with this app as of yet. So when people are looking for a taxi through the app they won’t find one because they aren’t near anywhere that has an japantaxi supporter taxi. I used this app in Tokyo and in Kyoto. I used this is Kyoto and the app worked great for me. Each time I used it I was given an estimated time of when my taxi would arrive, which wasn’t long usually and I could even see a small taxi icon on my map showing where the taxi was in real time. There was at one point where it searched in Kyoto and told me no taxis were available, but then 5 mins later it was able to get me a taxi. I think it just literally was that all the taxis were taken at that time and not a fault of the app. If taxis are full, taxis are full. I only tried to use the app once in Tokyo and it gave me the message that it could not find any taxis in my area and I believe it was the same reason as it was in Kyoto. So I think the app has potential and can be awesome when it works. So I say if your going to Japan it’s worth getting this app because it can work. I think it’ll only get better as time goes on. I would say this is the worst taxi app that I’ve ever used. I am not sure what is the backend for this app but it is the slowest app ever. It takes forever to open the app. Most of the time it is easier to stop taxi on a side of the road than using this app. Very frustrating.... The only positive thing that going for this app that most of the taxi drivers in Japan dont speak English, therefore this app can help one to get from point A to point B without long discussion with driver. I wish Japan will get real UBER and not premium. Thank you very much for the review. We are sorry for the inconvenience. We will strive to improve the app’s performance. 
-    The developer, Mobility Technologies Co., Ltd., indicated that the app’s privacy practices may include handling of data as described below. For more information, see the developer’s privacy policy.
-   The following data may be used to track you across apps and websites owned by other companies: The following data may be collected and linked to your identity: The following data may be collected but it is not linked to your identity: Privacy practices may vary, for example, based on the features you use or your age. Learn More English, Japanese, Korean, Simplified Chinese, Traditional Chinese Get all of your passes, tickets, cards, and more in one place. Get things done within this app using just your voice. GO / Request taxi app Japan Taxi Fare Calculator Universal Studios Japan Norikae Annai -Japan Transit- Japan Travel - Route,Map,Guide Japan Official Travel App Japan Airlines 乗り換えナビタイム（時刻表・運行情報アプリ） 
+The nonprofit Wikimedia Foundation provides the essential infrastructure for free knowledge. We host Wikipedia, the free online encyclopedia, created, edited, and verified by volunteers around the world, as well as many other vital community projects. All of which is made possible thanks to donations from individuals like you. We welcome anyone who shares our vision to join us in collecting and sharing knowledge that fully represents human diversity. Protect and sustain Wikipedia Donations are secure 1 You made it. It is yours to use. For free. That means you can use it, adapt it, or share what you find on Wikimedia sites. Just do not write your own bio, or copy/paste it into your homework.  2 We do not sell your email address or any of your personal information to third parties. More information about our privacy practices are available at the Wikimedia Foundation privacy policy, donor privacy policy, and data retention guidelines. 3 Readers verify the facts. Articles are collaboratively created and edited by a community of volunteers using reliable sources, so no single person or company owns a Wikipedia article. The Wikimedia Foundation does not write or edit, but you and everyone you know can help. 4 The word “wiki” refers to a website built using collaborative editing software. Projects with no past or existing affiliation with Wikipedia or the Wikimedia Foundation, such as Wikileaks and wikiHow, also use the term. Although these sites also use “wiki” in their name, they have nothing to do with Wikimedia. 300,000+ editors contribute to Wikimedia projects every month 90+ million media files on Wikimedia Commons and counting 1.7+ billion unique devices access Wikimedia projects every month We conduct our own research and partner with researchers worldwide to address change in society and technology. From site reliability to machine learning, our open-source technology makes Wikipedia faster, more reliable, and more accessible worldwide. We fight to protect everyone’s right to access free and open knowledge.  Our volunteers build tools, share photos, write articles, and are working to connect all the knowledge that exists. Free encyclopedia written in over 300 languages by volunteers around the world. The world’s largest free-to-use-library of illustrations, photos, drawings, videos and music. 
+
+ It’s possible that right now, as you read these words, a WikiGap event is being held in a Swedish embassy somewhere in the world. Created through a joint effort from the Swedish Ministry of Foreign Affairs and Wikimedia Sverige, an independent Wikimedia movement affiliate organization in Sweden, WikiGap edit-a-thon events bring people together across countries…. If you were asked to name the greatest artists in history, who would come to mind? Chances are, the first few names that pop into your head are men. “Whereas men experience presence in our art institutions, women experience primarily absence,” Judy Chicago, an American feminist artist describes, “except in images that do not necessarily…. 
+
+ Throughout history, knowledge has been controlled by a powerful few. Wikipedia needs knowledge from all languages and cultures. The internet has become the default for accessing information—women, people of color, and the global south remain underrepresented. We invite you to help correct history. As a nonprofit, Wikipedia and our related free knowledge projects are powered primarily through donations.  
+
+
+			Eric Luth Portrait for Wikimedia Foundation's Open The Knowledge Stories		
+
+File provided by Wikimedia Commons
+
+
+ Jordan McRae (WMF) 
+
+
+			CC BY-SA 4.0		
+
+ 
+			double-quote-serif-left-32		 
+
+
+			Wikigap Header Open the Knowledge Stories		
+
+File provided by Wikimedia Commons
+
+
+ Jordan McRae (WMF) 
+
+
+			CC BY-SA 4.0		
+
+ 
+
+
+			Juliana Monteiro Portrait for Wikimedia Foundation's Open The Knowledge Stories		
+
+File provided by Wikimedia Commons
+
+
+ Jordan McRae (WMF) 
+
+
+			CC BY-SA 4.0		
+
+ 
+
+
+			Art + Feminism Header Open the Knowledge Stories		
+
+File provided by Wikimedia Commons
+
+
+ Jordan McRae (WMF) 
+
+
+			CC BY-SA 4.0		
+
+ 
+
+
+			Sam Oye - Wiki Indaba 2017		
+
+File provided by Wikimedia Commons
+
+
+ Zachary McCune/Wikimedia Foundation 
+
+
+			CC BY-SA 4.0		
+
+ 
+
+
+			Vitor Mazuco		
+
+File provided by Wikimedia Commons
+
+
+ Matthew (WMF) 
+
+
+			CC BY-SA 3.0		
+
+ 
+
+
+			Emily Temple-Wood at Wikimania 2014		
+
+File provided by Wikimedia Commons
+
+
+ Victor Grigas/Wikimedia Foundation 
+
+
+			CC BY-SA 3.0		
+
+ 
+
+
+			Open the Knowledge Stories Banner WMF March		
+
+File provided by Wikimedia Commons
+
+
+ Jordan McRae (WMF) 
+
+
+			CC BY-SA 4.0		
+
+ 
+
+
+			Wikimedia Conference 2017		
+
+File provided by Wikimedia Commons
+
+
+ Jason Krüger/Wikimedia Deutschland e.V. 
+
+
+			CC BY-SA 4.0		
+
+ 
+
+
+			Papaul_Tshibamba-3		
+
+File provided by Wikimedia Commons
+
+
+ Victor Grigas 
+
+
+			CC BY SA 3.0		
+
+ 
+
+
+			SOPA protest in Midtown NYC		
+
+File provided by Wikimedia Commons
+
+
+ Zachary McCune 
+
+
+			CC BY-SA 4.0		
+
+ 
+
+
+			Art+Feminism Wikipedia edit-a-thon		
+
+File provided by Wikimedia Commons
+
+
+ Jens Mohr 
+
+
+			CC BY-SA 3.0		
+
+ The Wikimedia Foundation, Inc is a nonprofit charitable organization dedicated to encouraging the growth, development and distribution of free, multilingual content, and to providing the full content of these wiki-based projects to the public free of charge. 
