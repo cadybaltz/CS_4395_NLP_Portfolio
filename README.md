@@ -11,6 +11,7 @@ This is my portfolio for the course CS 4395: Human Language Technologies (Spring
 - [Assignment 5: Sentence Parsing](#assignment-5-sentence-parsing)
 - [Assignment 6: Web Crawler](#assignment-6-web-crawler)
 - [Assignment 7: Text Classification](#assignment-7-text-classification)
+- [Assignment 8: Reading ACL Papers](#assignment-8-reading-acl-papers)
 
 -----
 
@@ -98,3 +99,9 @@ Note that you must have SQL set up on your machine to create the database. Other
 In this assignment, I analyzed a dataset that contains short pieces of humorous and non-humorous text using three different ML classification approaches (Naive Bayes, Logistic Regression, and Neural Nets) with sklearn.
 
 You can view my notebook [here](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_7/cmb180010_text_classification.pdf).
+
+-----
+
+### Assignment 8: Reading ACL Papers
+
+In this assignment, I prepared a summary of the paper [Multi-Modal Sarcasm Detection via Cross-Modal Graph Convolutional Network](https://aclanthology.org/2022.acl-long.124.pdf). You can view my summary of the paper [here](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_8/cmb180010_ACL_summary.pdf).
