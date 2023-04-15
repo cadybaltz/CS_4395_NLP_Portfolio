@@ -12,6 +12,7 @@ This is my portfolio for the course CS 4395: Human Language Technologies (Spring
 - [Assignment 6: Web Crawler](#assignment-6-web-crawler)
 - [Assignment 7: Text Classification](#assignment-7-text-classification)
 - [Assignment 8: Reading ACL Papers](#assignment-8-reading-acl-papers)
+- [Assignment 9: Chatbot](#assignment-9-chatbot)
 
 -----
 
@@ -105,3 +106,9 @@ You can view my notebook [here](https://github.com/cadybaltz/CS_4395_NLP_Portfol
 ### Assignment 8: Reading ACL Papers
 
 In this assignment, I prepared a summary of the paper [Multi-Modal Sarcasm Detection via Cross-Modal Graph Convolutional Network](https://aclanthology.org/2022.acl-long.124.pdf). You can view my summary of the paper [here](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_8/cmb180010_ACL_summary.pdf).
+
+-----
+
+### Assignment 9: Chatbot
+
+In this assignment, I worked with @fdolisy to create a Travel Guide chatbot. You can see our code [here](https://github.com/fdolisy/TravelAgent).
