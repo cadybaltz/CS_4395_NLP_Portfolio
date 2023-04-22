@@ -13,6 +13,7 @@ This is my portfolio for the course CS 4395: Human Language Technologies (Spring
 - [Assignment 7: Text Classification](#assignment-7-text-classification)
 - [Assignment 8: Reading ACL Papers](#assignment-8-reading-acl-papers)
 - [Assignment 9: Chatbot](#assignment-9-chatbot)
+- [Assignment 10: Chatbot](#assignment-10-text-classification)
 
 -----
 
@@ -112,3 +113,11 @@ In this assignment, I prepared a summary of the paper [Multi-Modal Sarcasm Detec
 ### Assignment 9: Chatbot
 
 In this assignment, I worked with @fdolisy to create a Travel Guide chatbot. You can see our code [here](https://github.com/fdolisy/TravelAgent).
+
+-----
+
+### Assignment 10: Text Classification 2
+
+In this assignment, I analyzed a dataset that contains fraudulent job postings using several deep learning text classification approaches, including RNN, CNN, and LSTM.
+
+You can view my notebook [here](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_10/cmb180010-text-classification-2.pdf).
