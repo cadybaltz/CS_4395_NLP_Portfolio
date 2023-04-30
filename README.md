@@ -15,7 +15,7 @@ This is my portfolio for the course CS 4395: Human Language Technologies (Spring
 - [Assignment 9: Chatbot](#assignment-9-chatbot)
 - [Assignment 10: Text Classification 2](#assignment-10-text-classification-2)
 - [Skills Summary](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/SkillsSummary.md)
-- [Portfolio Wrap-Up](#portfolio-wrap-up)
+- [Portfolio Summary](#portfolio-summary)
 
 -----
 
