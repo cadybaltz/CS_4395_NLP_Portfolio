@@ -14,6 +14,8 @@ This is my portfolio for the course CS 4395: Human Language Technologies (Spring
 - [Assignment 8: Reading ACL Papers](#assignment-8-reading-acl-papers)
 - [Assignment 9: Chatbot](#assignment-9-chatbot)
 - [Assignment 10: Text Classification 2](#assignment-10-text-classification-2)
+- [Skills Summary](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/SkillsSummary.md)
+- [Portfolio Wrap-Up](#portfolio-wrap-up)
 
 -----
 
@@ -121,3 +123,14 @@ In this assignment, I worked with @fdolisy to create a Travel Guide chatbot. You
 In this assignment, I analyzed a dataset that contains fraudulent job postings using several deep learning text classification approaches, including RNN, CNN, and LSTM.
 
 You can view my notebook [here](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_10/cmb180010_text_classification_2.pdf).
+-----
+
+### Portfolio Wrap Up
+
+Throughout this course, I have had the opportunity to increase my skills in the domain of Natural Language Processing. I am especially glad I chose to take this elective this semester, as the release of ChatGPT last November has resulted in an explosion of NLP-related news and software this year. It was exciting to see technologies I learned about in class being discussed in news articles related to ChatGPT. 
+
+I found the projects I worked on in this course very interesting, as they allowed me to combine my creative side with my logical side. For example, I really enjoyed building my Travel Agent chatbot, and spent a lot of time (maybe too much time) brainstorming new ways to produce better output to the user. I also was glad to learn more of the mathematical side of NLP, as I finally learned about different techniques that I have only ever heard/read about but never truly understood.
+
+I was also able to build up my technical skillset through this course, as our projects relied on a wide variety of libraries that I have now gained fluency in, such as NLTK and Google Dialogflow. To see the complete list of technical and soft skills I have developed through this course, you can reference my [Skills Summary](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/SkillsSummary.md).
+
+While I already have a job lined up that is not directly related to NLP, I feel confident that the technical and soft skills I have learned this semester will be beneficial to any future software engineering work. Moving forward, I plan to keep up with the latest NLP technologies by using tools like ChatGPT to help with my daily workflow in both work and personal projects. Now that I have a deeper understanding of the inner workings of these technologies, I can use them more effectively, as well as more carefully, in my daily life.
