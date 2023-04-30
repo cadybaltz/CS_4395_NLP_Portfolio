@@ -123,9 +123,10 @@ In this assignment, I worked with @fdolisy to create a Travel Guide chatbot. You
 In this assignment, I analyzed a dataset that contains fraudulent job postings using several deep learning text classification approaches, including RNN, CNN, and LSTM.
 
 You can view my notebook [here](https://github.com/cadybaltz/CS_4395_NLP_Portfolio/blob/main/Assignment_10/cmb180010_text_classification_2.pdf).
+
 -----
 
-### Portfolio Wrap Up
+### Portfolio Summary
 
 Throughout this course, I have had the opportunity to increase my skills in the domain of Natural Language Processing. I am especially glad I chose to take this elective this semester, as the release of ChatGPT last November has resulted in an explosion of NLP-related news and software this year. It was exciting to see technologies I learned about in class being discussed in news articles related to ChatGPT. 
 
